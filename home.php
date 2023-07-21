@@ -14,7 +14,7 @@
    <div class="card mt-5">
    <?php include('flash.php'); // for alerts ?>
         <div class="card-header">
-            Welcome <?php echo $_SESSION['name']; ?>
+            Welcome to <?php echo $_SESSION['name']; ?>
         </div>
         <div class="card-body">
             <table class="table table-bordered">
