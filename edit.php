@@ -1,3 +1,4 @@
+<!-- eruieu -->
 <?php 
     include('actions/header.php'); // header  
     $id = $_GET['id']; // id ..
